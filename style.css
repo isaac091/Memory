@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(25, 97, 34);
+  }
+  button {
+    height: 75px;
+    width: 75px;
+    margin-left: 48%;
+  }
+  .card {
+    width: 8%;
+    height: 25%;
+  }
+  #grid {
+    margin-top: 4%;
+    margin-left: 4%;
+  }
+  #score{
+    margin-left: 48%;
+    font-size: x-large;
+    color: white;
+  }
